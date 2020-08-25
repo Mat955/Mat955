@@ -9,6 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mat955&show_icons=true" alt="reisub0" /> 
 </p>
 
-![picture](https://gfycat.com/wellinformedthirstyirishwaterspaniel)
+![picture](https://github.com/Mat955/Mat955/blob/master/dino.gif)
 <br />
 <br />
