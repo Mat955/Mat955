@@ -4,8 +4,9 @@
 <p>My name is Mateusz. I'm 26 year-old Front-end Developer who likes to explore the backend world. I love learning new things.</p>
 
 ``
-{ name: Mateusz, age: 26 }
+{ name: Mateusz, age: 26 } 
 ``
+<br>
 Languages / Frameworks:
 * Html
 * Css
