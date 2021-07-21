@@ -1,12 +1,21 @@
 
-### Hi there 👋
-<p>My name is Mateusz. I am a FrontEnd Developer who likes to explore the backend world. I love learning new things.</p>
-<p align="center">
-	<a href="https://www.linkedin.com/in/mateusz-lewartowski"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+![headingBg](https://github.com/Mat955/Mat955/blob/master/codeBack.jpg)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat955&show_icons=true" alt="reisub0" /> 
-</p>
-<br />
-<br />
+<p>My name is Mateusz. I'm 26 year-old Front-end Developer who likes to explore the backend world. I love learning new things.</p>
+
+``
+{ name: Mateusz, age: 26 }
+``
+Languages / Frameworks:
+* Html
+* Css
+* Scss
+* Javascript
+* React
+
+### Lets connect
+
+💻 [Website][Website] /  👨‍👨‍👧‍👦 [Linkedin][Linkedin]
+
+[Website]: https://ematpro.dev
+[Linkedin]: https://www.linkedin.com/in/mateusz-lewartowski/
