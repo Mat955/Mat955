@@ -1,10 +1,10 @@
 
 ![headingBg](https://github.com/Mat955/Mat955/blob/master/codeBack.jpg)
 
-<p>My name is Mateusz. I'm 26 year-old Front-end Developer who likes to explore the backend world. I love learning new things.</p>
+<p>My name is Mateusz. I'm 27 year-old Front-end Developer who likes to explore the backend world. I love learning new things.</p>
 
 ``
-{ name: Mateusz, age: 26 } 
+{ name: Mateusz, age: 27 } 
 ``
 <br>
 Languages / Frameworks:
@@ -16,7 +16,6 @@ Languages / Frameworks:
 
 ### Lets connect
 
-💻 [Website][Website] /  👨‍👨‍👧‍👦 [Linkedin][Linkedin]
+👨‍👨‍👧‍👦 [Linkedin][Linkedin]
 
-[Website]: https://ematpro.dev
 [Linkedin]: https://www.linkedin.com/in/mateusz-lewartowski/
