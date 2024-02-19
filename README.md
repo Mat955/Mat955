@@ -22,6 +22,7 @@ I'm Frontend Developer who likes to explore the backend world. I love learning n
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+![Angular](https://img.shields.io/badge/angular-BD002E?style=for-the-badge&logo=angular&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-0C1222?style=for-the-badge&logo=wordpress)
 
 ## Lets connect
