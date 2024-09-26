@@ -34,6 +34,7 @@ I'm Frontend Developer who likes to explore the backend world. I love learning n
 ## Side project: MicrotransAI && ZendaAI 
 
 MircroTransAI - [Link to an application](https://micro-trans-ai.vercel.app/)
-MircroTransAI - [Link to an application](https://zenda-ai.vercel.app/)
+
+ZendaAI - [Link to an application](https://zenda-ai.vercel.app/)
 
 You can find an access to a test account inside Github project readme.
