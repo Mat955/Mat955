@@ -1,17 +1,16 @@
 
 ![headingBg](https://github.com/Mat955/Mat955/blob/master/coding_simulation-my-office-mateusz.png)
 
-# My name is Mateusz. 
-I'm Frontend Developer who likes to explore the backend world. I love learning new things.
+I am a results-driven Full Stack Developer passionate about building innovative web applications using the latest in JavaScript and AI technology. My expertise spans React, Next.js, LLMs, Tailwind CSS, and database like Supabase or Postgres - enabling me to deliver both exceptional user interfaces and powerful back-end solutions.
 
-👨‍💻 As a dedicated developer, I thrive on exploring the full cycle of web application development - from ideation to launch.My toolkit includes Wordpress, but JavaScript/React.js is the area I'm most comfortable with. My priority is constant development, and becoming better programmer in frontend developing.
+Currently, I'm developing Infographic AI Generator - a tool harnessing artificial intelligence to create insightful infographics - demonstrating my commitment to practical, next-generation applications.
 
-🤖 Venturing into Artificial Intelligence, I am currently completing courses to merge AI with my projects, pushing the envelope further in tech advancements. My ambition doesn’t stop here. I’m driven to explore new technologies, ensuring I'm always ahead.
+What sets me apart?
 
-🌱 My objective? Continuous growth in tech, especially within JavaScript and AI domains, contributing significantly to the industry and creating solutions with real-world impact.
-
-🔍 Seeking connections in the tech world? Let’s join forces to explore how we can drive innovation together. Feel free to reach out!
-
+- A full-cycle approach: from idea and architecture to launch and optimization
+- Rapid adoption of cutting-edge tech in the JavaScript and AI space
+- Strong focus on code quality, scalability, and real impact
+- Proactive communication and collaboration in diverse teams
 ## My Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
