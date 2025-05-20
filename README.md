@@ -1,7 +1,7 @@
 
 ![headingBg](https://github.com/Mat955/Mat955/blob/master/coding_simulation-my-office-mateusz.png)
 
-I am a results-driven Full Stack Developer passionate about building innovative web applications using the latest in JavaScript and AI technology. My expertise spans React, Next.js, LLMs, Tailwind CSS, and database like Supabase or Postgres - enabling me to deliver both exceptional user interfaces and powerful back-end solutions.
+I am a results-driven Full Stack Developer passionate about building innovative web applications using the latest in JavaScript and AI technology. My expertise spans React, Next.js, LLMs, and Databases - enabling me to deliver both exceptional user interfaces and powerful back-end solutions.
 
 Currently, I'm developing Infographic AI Generator - a tool harnessing artificial intelligence to create insightful infographics - demonstrating my commitment to practical, next-generation applications.
 
